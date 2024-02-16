@@ -1,20 +1,20 @@
 # ALEX CORD v1 Selfbot
 
 ALEX CORD v1 is a Discord selfbot written in Python 
-It requires the user to provide their Discord user ID and a token in the env.
+It requires the user to provide their Discord user ID and a token in the (YOUR TOKEN).
 
 ## Prerequisites
 
 - Python installed on your system
-- Discord user ID (to be added as an env)
-- Discord selfbot token (to be added as an env)
+- Discord user ID (to be added as an main.py)
+- Discord selfbot token (to be added as an main.py)
 
 ## Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/zaddyinfected/Infected-Self-Bot-x1.5
+   git clone https://github.com/alexdev0121/ALEX-CORD-SELF-BOT.git
    ```
   
    
@@ -32,7 +32,7 @@ It requires the user to provide their Discord user ID and a token in the env.
 
 5. Create a new file as `.env` and open it
 
-6. Set your Discord User ID as an env named `userid`.
+6. Set your Discord User ID as an  named `userid`.
 
 7. Set your Discord selfbot token as an env named `token`.
 
