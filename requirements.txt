@@ -1,0 +1,7 @@
+discord.py-self==1.9.2
+pyfiglet
+faker
+psutil
+python-decouple
+requests
+colorama
